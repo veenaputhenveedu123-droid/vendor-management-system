@@ -71,6 +71,7 @@ POST /api/products/add/
 
 Update product
 PUT /api/products/{id}/update/
+
 Delete product
 DELETE /api/products/{id}/delete/
 
