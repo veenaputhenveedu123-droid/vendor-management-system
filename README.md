@@ -70,10 +70,9 @@ Add product
 POST /api/products/add/
 
 Update product
-PUT /api/products/{id}/
-
+PUT /api/products/{id}/update/
 Delete product
-DELETE /api/products/{id}/
+DELETE /api/products/{id}/delete/
 
 ---
 
